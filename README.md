@@ -13,7 +13,8 @@ Build AI-Powered Tools To Support Clinical Trials And Medical Data Analysis, Imp
 
 ## Documentation
 For Detailed Explanation Of The Idea And Roadmap, See:  
-[📄 WLT_Idea.pdf](./docs/WLT_Idea.pdf) 
+[📄 WLT Idea PDF](https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/WLT_Idea.pdf)  
+[🖼️ WLT Logo](https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/WLT_Logo.jpg)
 
 ## Roadmap
 1. Idea Documentation (Current Stage)  
