@@ -1,18 +1,29 @@
-This PDF (WLT_Idea.pdf) Contains The Idea-Stage Documentation Of WLT (Wolf Lymphocyte Technology)  
-An AI Startup In Basic Medical Sciences.
+WLT (Wolf Lymphocyte Technology)  
+An AI Startup In Basic Medical Sciences  
 
-Sections Included:
-1. Title Page
-2. Abstract
-3. Problem Statement
-4. Proposed Solution
-5. Innovation
-6. Roadmap
-7. Collaboration / Investment
-8. Signature / Contact
+This Repository Contains Early-Stage Documentation And Design Assets For WLT, An Artificial Intelligence–Based Startup Focused On Innovation In Basic Medical Sciences.
 
-Purpose: Provides A Timestamped Public Record Of The Concept On GitHub.
+This Repository Includes:
 
-Logo: The WLT Logo Is AI-Generated, Unique, And Serves As Both The Author's GitHub Profile Image And The Official Project Logo.
+1. WLT_Idea — The Main Concept Document Including:  
+   - Abstract  
+   - Problem Statement  
+   - Proposed Solution  
+   - Innovation  
+   - Roadmap  
+   - Collaboration / Investment  
+   - Signature / Contact  
+
+2. WLT_Logo — The Main Official Logo, AI-Generated And Unique.  
+3. WLT_Typography_Logo — The Secondary AI-Generated Typographic Logo.  
+   Between These Two Logos, One May Also Be Used As The Personal Profile Image.  
+4. WLT_Poster — A Visual Summary Poster Presenting The WLT Concept.  
+
+Purpose:  
+Provides A Timestamped, Public Record Of The WLT Concept On GitHub, Documenting The Idea Phase And Its Design Identity.
+
+Note:  
+Copying Or Reusing This Content Without Permission Is Considered Unethical.  
+An Official GitHub Page Dedicated To This Startup May Be Established In The Near Future.
 
 Thank You. 
