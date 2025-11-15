@@ -5,7 +5,7 @@
 
 ## **🖼️ Project Logo**
 <div align="center">
-  <img src="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Logo/WLT-Logo-WithText.png" alt="WLT Logo" width="200">
+  <img src="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Logo/WLT-Logo-WithText.png" alt="WLT-Logo-WithText" width="200">
 </div>
 
 ---
