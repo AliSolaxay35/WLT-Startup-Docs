@@ -4,10 +4,6 @@
 ---
 
 ## **🖼️ Project Logo**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AliSolaxay35/WLT-Startup-Docs/main/Logo/WLT-Logo-Light-WithText.png#gh-light-mode-only" alt="WLT Logo Light" width="250px">
-  <img src="https://raw.githubusercontent.com/AliSolaxay35/WLT-Startup-Docs/main/Logo/WLT-Logo-Dark-WithText.png#gh-dark-mode-only" alt="WLT Logo Dark" width="250px">
-</p>
 
 ---
 
