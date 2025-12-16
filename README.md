@@ -59,7 +59,7 @@ Our Mission Is To **Develop High-Performance AI Codes And Algorithms** That Enha
 ---
 
 ## **📁 Project Resources**
-- **Documentation PDF**: [Download Full Documentation](https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Document/WLT-Version-1.0-EN.pdf)
+- **Documentation PDF**: [Download Full Documentation](https://github.com/AliSolaxay35/WLT-Startup-Docs/tree/main/Brand%20Assets/Document)
 - **Poster**: [Download Project Poster](https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Marketing/Poster/WLT-Poster-EN-Version-1.0.png)
 
 ---
