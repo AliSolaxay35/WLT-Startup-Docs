@@ -23,6 +23,14 @@
 
 ---
 
+## **🌐 Documentation Languages**
+WLT Documentation Is Officially Maintained In Three Languages To Support International Collaboration:
+- **English (EN)** – Primary & Reference Language  
+- **Türkçe (TR)** – Official Supported Language  
+- **Deutsch (DE)** – Official Supported Language  
+
+---
+
 ## **💛 Vision**
 Our Mission Is To **Develop High-Performance AI Codes And Algorithms** That Enhance The Accuracy, Efficiency, And Scalability Of **Medical Research And Clinical Trials**. By Leveraging **Machine Learning, Data Science, And Software Engineering**, WLT Aims To:
 - **Accelerate Drug Discovery** Through **Custom AI Algorithms**.
@@ -59,8 +67,13 @@ Our Mission Is To **Develop High-Performance AI Codes And Algorithms** That Enha
 ---
 
 ## **📁 Project Resources**
-- **Documentation PDF**: [Download Full Documentation](https://github.com/AliSolaxay35/WLT-Startup-Docs/tree/main/Brand%20Assets)
-- **Poster**: [Download Project Poster](https://github.com/AliSolaxay35/WLT-Startup-Docs/tree/main/Marketing/Poster)
+- **Documentation PDF** (Includes Brand Assets): [Download Full Documentation](https://github.com/AliSolaxay35/WLT-Startup-Docs/tree/main/Brand%20Assets)
+
+- **Marketing Materials**: [View Marketing Materials](https://github.com/AliSolaxay35/WLT-Startup-Docs/tree/main/Marketing)
+
+- **Human Resources (HR)**: [View HR Documents](https://github.com/AliSolaxay35/WLT-Startup-Docs/tree/main/HR)
+
+- **Yellow ImmuneCell (Code)**: [View Code](https://github.com/AliSolaxay35/WLT-Startup-Docs/tree/main/Yellow%20ImmuneCell)
 
 ---
 
@@ -71,7 +84,7 @@ WLT Is Actively Seeking **Developers, Researchers, And Investors** To Join This 
 - **Clinical Research / Trials**
 - **Investment / Funding**
 
-**Contact Us:**
+**Contact Us:**  
 📧 Email: [alisolaxay35wlt@gmail.com](mailto:alisolaxay35wlt@gmail.com)
 
 ---
