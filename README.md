@@ -6,11 +6,11 @@
 ## **🎨 Branding**
 <p align="center" style="margin-top: 40px; margin-bottom: 40px;">
 
-  <img src="https://raw.githubusercontent.com/AliSolaxay35/WLT-Startup-Docs/main/Branding/ReadMe/WLT-Brand-Light.png#gh-light-mode-only" 
+  <img src="https://raw.githubusercontent.com/AliSolaxay35/WLT-Startup-Docs/main/Visual%20Resources/ReadMe/WLT-Light-GitHub-Banner.png#gh-light-mode-only" 
        alt="WLT Brand Light" 
        style="max-width: 320px; width: 70%; height: auto; display: block; margin: 0 auto 20px auto;">
 
-  <img src="https://raw.githubusercontent.com/AliSolaxay35/WLT-Startup-Docs/main/Branding/ReadMe/WLT-Brand-Dark.png#gh-dark-mode-only" 
+  <img src="https://raw.githubusercontent.com/AliSolaxay35/WLT-Startup-Docs/main/Visual%20Resources/ReadMe/WLT-Dark-GitHub-Banner.png#gh-dark-mode-only" 
        alt="WLT Brand Dark" 
        style="max-width: 320px; width: 70%; height: auto; display: block; margin: 0 auto 20px auto;">
 
