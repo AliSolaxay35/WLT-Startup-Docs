@@ -8,15 +8,15 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Dark-GitHub-Banner-Flat.jpg">
+            srcset="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Dark-GitHub-Banner-Flat-NoText.png">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Light-GitHub-Banner-Flat.jpg">
+            srcset="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Light-GitHub-Banner-Flat-NoText.png">
     <img src="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Light-GitHub-Banner-Flat.jpg"
          alt="WLT GitHub Banner"
          style="max-width: 320px; width: 70%; height: auto; display: block; margin: 0 auto 20px auto;">
   </picture>
 
-</p>
+</p> 
 
 > **Note:** This Documentation Is Maintained Within The **Personal GitHub Account Of The Founder And Lead Developer** And Will Continue To Remain Here As An Official Reference For WLT.  
 > In The Future, A **Dedicated And Independent GitHub Organization** May Be Established To Support **International Activities, Broader Collaboration, And Organizational Growth**. Any Such Transition Will Be Officially Announced.
@@ -105,8 +105,9 @@ WLT Is Actively Seeking **Developers, Researchers, And Investors** To Join This 
 ---
 
 ## **🔗 Connect With Us**
-- **GitHub:** [AliSolaxay35/WLT-Startup-Docs](https://github.com/AliSolaxay35/WLT-Startup-Docs)
 - **Email:** [alisolaxay35wlt@gmail.com](mailto:alisolaxay35wlt@gmail.com)
+- **GitHub:** [AliSolaxay35/WLT-Startup-Docs](https://github.com/AliSolaxay35/WLT-Startup-Docs)
+- **Community:** [r/WLTLabs](https://www.reddit.com/r/WLTLabs/) 
 
 ---
 
