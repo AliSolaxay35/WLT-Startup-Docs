@@ -8,7 +8,7 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Dark-GitHub-Banner-Flat-NoText.png">
+            srcset="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Dark-GitHub-Banner-Flat-NoText-RevA.jpg">
     <source media="(prefers-color-scheme: light)" 
             srcset="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Light-GitHub-Banner-Flat-NoText.png">
     <img src="https://github.com/AliSolaxay35/WLT-Startup-Docs/blob/main/Visual%20Resources/ReadMe/WLT-Light-GitHub-Banner-Flat.jpg"
@@ -87,6 +87,16 @@ WLT Aims To:
 | **Prototype Development** | ⏳ **Planned** | Building And Testing AI Systems For Scientific And Medical Data Analysis |
 | **MVP Creation** | ⏳ **Planned** | Developing Functional Software And Infrastructure Prototypes |
 | **Scaling** | ⏳ **Future** | Expanding Technologies, Infrastructure, And Partnerships |
+
+---
+
+## **📢 Latest Updates**
+
+* **May 2026:** Published Multilingual YellowImmuneCell (YIC) Documentation And Visual Identity Resources (EN / TR / DE).
+
+* **May 2026:** Released Improved WLT Dark Flat Logo Asset (RevA) To Enhance Visual Quality And Brand Consistency Across Official Materials.
+
+* **Coming Soon:** Development Of A New AI-Oriented Research Algorithm Is Currently In Progress. Additional Information And Technical Details Will Be Announced In A Future Update.
 
 ---
 
